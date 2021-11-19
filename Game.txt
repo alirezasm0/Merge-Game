@@ -1,0 +1,1 @@
+welcome to merge-game-2 :) this file is under the master branch
